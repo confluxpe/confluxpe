@@ -2,7 +2,7 @@
 
 - 🔭 I am currently working with Electronic Billing and Odoo.
 - 💬 Ask me about: JavaScript, React, Odoo.
-- 📫 How to reach us: <a href="mailto:contacto@conflux.pe">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://conflux.pe">![Website](https://img.shields.io/badge//website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fshields.io)</a>
+- 📫 How to reach us: <a href="mailto:contacto@conflux.pe">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://conflux.pe">![Website](https://img.shields.io/badge/website-up-brightgreen?style=for-the-badge)</a>
 
 ## Tech Stack
 <p>
